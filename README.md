@@ -26,12 +26,12 @@
 ##### 3. _As Regras são exatamente iguais ao Jo-Ken-Po original_
 ##### 4. _São dadas 5 cartas a maquina e 5 cartas para o jogador (você)_
 ##### 5. _Jogue a carta de sua Escolha e veja o resultado_
-|
+
 ---
 
 ## ⚔⚔ É HORA DO DUELO! ⚔⚔
 ---
 # Apresentação do game
-![]()
+![Apresentação Game Jo-Ken-Po.png](https://github.com/LuzaniDev/Jo-Ken-Po-Game/blob/main/apresenta%C3%A7%C3%A3o/Apresenta%C3%A7%C3%A3o%20Game%20Jo-Ken-Po.png)
 
 
